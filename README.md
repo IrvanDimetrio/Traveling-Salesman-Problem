@@ -5,11 +5,7 @@ Traveling salasman Problem (TSP) adalah permasalahan untuk mencari jarak terkeci
 Contoh masalah dalam program ini yaitu :
 terdapat 4 kota atau N = 4, dengan array/jarak dari satu kota ke kota lain adala
 
-   A  B   C   D
-A |0, 10, 9, 11|
-B |5, 0, 21, 10|
-C |7, 13, 0, 12|
-D |19, 13, 4, 0|
+![image](https://user-images.githubusercontent.com/52452132/121353491-216c9000-c958-11eb-9d54-d4acc3209f90.png)
 
 ## Output
 
